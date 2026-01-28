@@ -15,8 +15,8 @@
 
 ## Installation
 
+Create the colorschemes folder (if it doesn’t exist) and symlink the theme:
+
 ```bash
 mkdir -p ~/.config/ranger/colorschemes
 ln -s ~/dotfiles/ranger/colorschemes/redorchid.py ~/.config/ranger/colorschemes/redorchid.py
-:colorscheme redorchid
-
