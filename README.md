@@ -18,8 +18,5 @@
 ```bash
 mkdir -p ~/.config/ranger/colorschemes
 ln -s ~/dotfiles/ranger/colorschemes/redorchid.py ~/.config/ranger/colorschemes/redorchid.py
-
-## in Ranger, activate the theme:
-
 :colorscheme redorchid
 
